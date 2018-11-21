@@ -14,7 +14,7 @@ CREATE TABLE books(
   series_id INTEGER
 );
 
-CREATE TABLE series(
+CREATE TABLE series (
   id INTEGER PRIMARY KEY,
   title TEXT,
   author_id INTEGER,
