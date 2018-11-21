@@ -3,7 +3,13 @@ CREATE TABLE characters(
 );
 
 CREATE TABLE books(
+
+);
+
+CREATE TABLE authors(
+
+);
+
+CREATE TABLE subgenres(
   
 );
-CREATE TABLE ();
-CREATE TABLE ();
